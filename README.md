@@ -10,7 +10,8 @@ Repositório para armazenar resumos sobre Git e Github.
 ## 🖥 Resumos das aulas
 | Aulas | Resumos |
 |-------|---------|
-| Gravando alterações no repositório local | [Resumos]() |
+| Aula 01 | Resumo() |
+| Aula 02 | Resumo() |
 
 ## 🔍 Referências
 - [Digital Innovation One]().
